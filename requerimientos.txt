@@ -1,0 +1,8 @@
+Proyecto
+
+Requerimientos
+
+1. Análisis de Compras y Crédito Fiscal: Evaluar montos totales de compra, crédito fiscal acumulado, compras exentas e ICE por empresa, proveedor, mes y año.
+2. Cumplimiento de Bancarización: Monitorear transacciones que superan los umbrales de bancarización (compras/ventas $\ge 50.000$ BOB), clasificadas por entidad financiera, tipo de documento de pago y estado de cumplimiento.
+3. Control de Activos Fijos y Depreciación: Analizar el valor total de activos fijos, costo neto, depreciación acumulada por unidad/ambiente, cuenta contable y estado físico del equipo.
+4. Gestión Operativa de Personal y Cargos: Analizar la distribución de personal por área, tipo de contrato (eventual/permanente), cargos y masa salarial asociada.
